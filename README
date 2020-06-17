@@ -1,0 +1,3 @@
+example:
+
+docker run -v "$(pwd)":/home/appuser j81docker/isunstruct:2.02 --help 
